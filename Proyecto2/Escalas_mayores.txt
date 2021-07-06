@@ -1,0 +1,23 @@
+Do: Do-Re-Mi-Fa-Sol-La-Si
+
+Do#/Reb: Do#-Re#-Fa-Fa#-Sol#-La#-Si#/Do
+
+Re: Re-Mi-Fa#-Sol-La-Si-Do#
+
+Mi: Mi-Fa#-Sol#-La-Si-Do#-Re#
+
+Mib: Mib-Fa-Sol-Sol#/Lab-Sib/La#-Do-Re
+
+Fa: Fa-Sol-La-La#/Sib-Do-Re-Mi
+
+Fa#/Solb: Fa#-Sol#-La#-Si-Do#-Re#-Fa
+
+Sol: Sol-La-Si-Do-Re-Mi-Fa#
+
+Lab: Lab-La#/Sib-Do-Do#/Reb-Mib/Re#-Fa-Sol
+
+La: La-Si-Do#-Re-Mi-Fa#-Sol#
+
+Sib: Sib-Do-Re-Re#/Mib-Fa-Sol-La
+
+Si/Dob: Si-Do#-Re#-Mi-Fa#-Sol#-La#
